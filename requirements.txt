@@ -1,0 +1,2 @@
+git+https://github.com/waldnerf/ai4boundaries
+monai==1.4.0
