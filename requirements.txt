@@ -1,2 +1,6 @@
-git+https://github.com/waldnerf/ai4boundaries
-monai==1.4.0
+beautifulsoup4==4.13.3
+rasterio==1.4.3
+requests==2.32.3
+torch==2.5.1
+tqdm==4.67.1
+xarray==2025.1.1
